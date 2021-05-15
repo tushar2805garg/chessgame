@@ -1,7 +1,7 @@
 // import "bootstrap/dist/css/bootstrap.min.css";
 import { React } from "react";
 import ReactDOM from "react-dom";
-import { HashRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import "./styles.css";
 import Start from "./Start";
 ReactDOM.render(
