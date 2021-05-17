@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Wesite is live at: https://tushar2805garg.github.io/chessgame/
+Wesite is live at: https://chessgamewithtushar.herokuapp.com/#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
